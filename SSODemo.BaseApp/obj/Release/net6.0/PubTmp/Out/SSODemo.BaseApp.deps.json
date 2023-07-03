@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SSODemo.BaseApp/1.0.0": {
+        "runtime": {
+          "SSODemo.BaseApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSODemo.BaseApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
